@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to React",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React.",
+      "enrollmentStatus": "Open",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": "React Fundamentals, Component Lifecycle, State Management, ..."
+    },
+    // Add more course objects
+  ]
+  
